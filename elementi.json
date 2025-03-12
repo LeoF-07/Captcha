@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "banana 1",
+        "formato": "jpg"
+    },
+    {
+        "nome": "fragola 1",
+        "formato": "jpg"
+    },
+    {
+        "nome": "ananas 1",
+        "formato": "jpg"
+    },
+    {
+        "nome": "uva 1",
+        "formato": "jpg"
+    },
+    {
+        "nome": "banana 2",
+        "formato": "jpg"
+    },
+    {
+        "nome": "banana 3",
+        "formato": "jpg"
+    },
+    {
+        "nome": "mela 1",
+        "formato": "jpg"
+    },
+    {
+        "nome": "banana 4",
+        "formato": "jpg"
+    }
+]
